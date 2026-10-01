@@ -44,7 +44,7 @@ The analysis is based on the UCI Online Retail Dataset.
 | Period | 01/12/2010 – 09/12/2011 |
 | Sample Used | 10% of the original dataset |
 
-Dataset source: https://archive.ics.uci.edu/dataset/352/online+retail
+Dataset source: **[UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)**
 
 ## Dataset Features
 
